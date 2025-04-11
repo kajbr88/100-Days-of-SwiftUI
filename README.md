@@ -23,7 +23,7 @@ The 100 Days of SwiftUI is a comprehensive course designed to teach you SwiftUI 
 
 ## Notes
 
-* `Each project directory contains the final/completed project for the particular module named the Project name itself.
+*  Each project directory contains the final/completed project for the particular module named the Project name itself.
 *  Some Project directories contain previous project directories in them, these are the completed challenges or features applied to them for the topics taught in the 
    current project. 
 *  Solutions to the current project challenges are commented next to project code.
