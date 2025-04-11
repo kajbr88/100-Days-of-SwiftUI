@@ -6,23 +6,27 @@ This repository contains my progress and code solutions for Paul Hudson's [100 D
 
 The 100 Days of SwiftUI is a comprehensive course designed to teach you SwiftUI from scratch. It covers a wide range of topics, including:
 
-* SwiftUI fundamentals
-* Building user interfaces
-* Working with data
-* Animations and transitions
-* Networking and data fetching
+* Swift fundamentals.
+* SwiftUI layout and design principles.
+* Working with various SwiftUI views and modifiers.
+* Animations and transitions.
+* Working with data.
+* Networking and data fetching.
+* Training machine learning model with CreateML and integration with SwiftUI.
+* Combine framework for reactive programming.
+* Data management using `@State`, `@Binding`, `@ObservedObject`/`@Observable`, and `@EnvironmentObject`.
+* UserDefaults, Core Data, SwiftData for persistent storage.
+* Working with maps, sensors, and other device capabilities.
+* Architectural Patterns and Best Practices.
+* Advanced SwiftUI concepts and best practices.
 * And much more!
 
-This course is structured into daily lessons with hands-on projects, allowing you to learn by doing.
+## Notes
 
-## Repository Structure
-
-Each day's work is organized into separate folders named `DayXX`, where `XX` represents the day number. Each folder typically contains:
-
-* `ProjectName/`: The Xcode project for the day's project.
-* `Challenges/`: Solutions to the optional challenges provided for that day.
-* `Notes.md`: Any personal notes or observations made during the day's learning.
-
+* `Each project directory contains the final/completed project for the particular module named the Project name itself.
+*  Some Project directories contain previous project directories in them, these are the completed challenges or features applied to them for the topics taught in the 
+   current project. 
+*  Solutions to the current project challenges are commented next to project code.
 
 ## How to Use This Repository
 
