@@ -13,8 +13,8 @@ The 100 Days of SwiftUI is a comprehensive course designed to teach you SwiftUI 
 * Working with data.
 * Networking and data fetching.
 * Training machine learning model with CreateML and integration with SwiftUI.
-* Combine framework for reactive programming.
-* Data management using `@State`, `@Binding`, `@ObservedObject`/`@Observable`, and `@EnvironmentObject`.
+* Combine framework and Swift Concurrency for reactive programming.
+* Data/State management using `@State`, `@Binding`, `@ObservedObject`/`@Observable`, and `@EnvironmentObject`.
 * UserDefaults, Core Data, SwiftData for persistent storage.
 * Working with maps, sensors, and other device capabilities.
 * Architectural Patterns and Best Practices.
